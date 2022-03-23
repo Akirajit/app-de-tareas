@@ -1,0 +1,12 @@
+[
+  { "titulo": "estudiar", "estado": "pendiente" },
+  { "titulo": "pagar la luz", "estado": "pendiente" },
+  { "titulo": "llamar a Walter", "estado": "hecho" },
+  {
+    "titulo": "entregar trabajo final de Digital House",
+    "estado": "pendiente"
+  },
+  { "titulo": "tarea", "estado": "pendiente" },
+  { "titulo": "fumar", "estado": "hecho" },
+  { "titulo": "programar", "estado": "pendiente" }
+]
