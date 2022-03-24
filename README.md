@@ -22,5 +22,3 @@ code .
 ```
 
 para que directamente se abra la carpeta actual con el Visual Studio Code.
-
-✔
